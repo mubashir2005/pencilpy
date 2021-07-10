@@ -18,5 +18,5 @@ from pencilpy import cartoon
 cartoon.cartoonify('Your image goes here')
 
 
-#Example implementation:
+# Example implementation:
 https://shortnner.tech/B_Bd7RPFpK
