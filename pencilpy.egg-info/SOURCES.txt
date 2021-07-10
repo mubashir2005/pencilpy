@@ -1,0 +1,10 @@
+README.md
+setup.py
+pencilpy/__init__.py
+pencilpy/cartoon.py
+pencilpy/pencil.py
+pencilpy.egg-info/PKG-INFO
+pencilpy.egg-info/SOURCES.txt
+pencilpy.egg-info/dependency_links.txt
+pencilpy.egg-info/requires.txt
+pencilpy.egg-info/top_level.txt

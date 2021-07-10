@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pencilpy
+Version: 1.0.2
+Summary: Get pencil sketches and cartoons from image
+Home-page: https://github.com/dingus45191/pencil-cartoon
+Author: Mohammed Mubashir Hasan
+Author-email: mubashirhasan716@gmail.com
+License: BSD 2-clause
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+
+UNKNOWN
+
