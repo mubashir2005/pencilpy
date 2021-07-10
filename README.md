@@ -16,3 +16,7 @@ pencil.sketch('Your image goes here')
 # Cartoonify an image
 from pencilpy import cartoon
 cartoon.cartoonify('Your image goes here')
+
+
+#Example implementation:
+https://shortnner.tech/B_Bd7RPFpK
