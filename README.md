@@ -15,7 +15,7 @@ pencil.sketch('Your image goes here')
 
 # Cartoonify an image
 from pencilpy import cartoon
-cartoon.cartoonify('Your image goes here')
+cartoon.cartoonify('Your image goes here','any one digit number')
 
 
 # Example implementation:
