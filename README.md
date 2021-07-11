@@ -1,6 +1,6 @@
 Instructions to use:
 
-Install the package by 'pip install pencilpy'
+Install the package by   ```pip install pencilpy```
 
 # Use pillow or cv2 or any other library to make image readable
 
