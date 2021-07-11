@@ -8,7 +8,8 @@ Now use the following code to get started with pencilpy
 
 # Get  Pencil Sketch 
 
-```from pencilpy import pencil
+```
+from pencilpy import pencil
 pencil.sketch('Your image goes here')
 ```
 
